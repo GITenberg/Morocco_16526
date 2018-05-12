@@ -1,0 +1,35 @@
+_repo: Morocco_16526
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Forrest, A. S. (Archibald Stevenson)
+    alias: Forrest, Archibald Stevenson
+    birthdate: 1869
+    deathdate: 1963
+    gutenberg_agent_id: '33528'
+    url: http://www.gutenberg.org/2009/agents/33528
+covers:
+- cover_type: archival
+  image_path: 16526-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bensusan, S. L. (Samuel Levy)
+    alias: Bensusan, Samuel Levy
+    birthdate: 1872
+    deathdate: 1958
+    gutenberg_agent_id: '34029'
+    url: http://www.gutenberg.org/2009/agents/34029
+description: Cover -- Contents.
+gutenberg_issued: '2005-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Morocco -- Description and travel'
+title: Morocco
+url: http://www.gutenberg.org/ebooks/16526
