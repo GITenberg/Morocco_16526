@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '34029'
     url: http://www.gutenberg.org/2009/agents/34029
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16526#Morocco
 gutenberg_issued: '2005-08-13'
 gutenberg_type: Text
 identifiers:
